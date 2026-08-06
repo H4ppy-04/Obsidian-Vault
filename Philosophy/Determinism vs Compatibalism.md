@@ -1,0 +1,6 @@
+
+## Determinism
+
+
+## Compatibalism 
+

@@ -1,0 +1,1 @@
+The bait and switch fallacy is where you present a partial truth whilst concealing any false entailment. This is less of a fallacy, but if it were to be one it would probably be very similar to the [[Motte and Bailey]] fallacy. 

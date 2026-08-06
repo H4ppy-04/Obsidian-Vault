@@ -1,0 +1,1 @@
+![[Antecedent et Consequent.png]]

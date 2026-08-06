@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "32d7d311409b3334",
+    "type": "split",
+    "children": [
+      {
+        "id": "e040405ab94a906b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f24f5cdfadfdfe5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47ec04063a4e1b49",
+    "type": "split",
+    "children": [
+      {
+        "id": "7614987be981d126",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63b4415efe0b4ffe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7205388d39267c5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4f4b07cc5ad81d68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "right": {
+    "id": "21ce3ffe476fffd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c41d1cc9bebac2fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29b0caf02404999a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notepad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notepad"
+            }
+          },
+          {
+            "id": "9f18e94e3a31b299",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "248eafb33077578f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dd38ce4db4d5b5b5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c3b8a24828cdef8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c04541d72eecdb76",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Diploma of IT/Business Statistics & Insights/Exercises/One-sample z-Test.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "63b4415efe0b4ffe",
+  "lastOpenFiles": [
+    "Diploma of IT/Business Statistics & Insights/Media",
+    "Geopolitics/Debate Notes/Javad v. Destiny.md",
+    "Geopolitics/Debate Notes/Finkelstein et. al Debate Notes.md",
+    "Geopolitics/Israel-Palestine Conflict/Targeted Attacks on Journalists.md",
+    "Geopolitics/Israel-Palestine Conflict/Samud Aid Floatilla.md",
+    "Geopolitics/Israel-Palestine Conflict/Israel Funding Gangs to Seize Aid.md",
+    "Geopolitics/Israel-Palestine Conflict/On the Validity of Sources.md",
+    "Geopolitics/Israel-Palestine Conflict/IDF Defence Minister.md",
+    "Geopolitics/Israel-Palestine Conflict/Human Rights Violations/On The Crime of Genocide.md",
+    "Geopolitics/Israel-Palestine Conflict/Human Rights Violations/Former IDF Minister and Netanyahu Wanted.md",
+    "Geopolitics/Israel-Palestine Conflict/Human Rights Violations/Deprivation of Food as a War Crime.md",
+    "Diploma of IT/Business Statistics & Insights/2.4 Chi-Squared Tests.md",
+    "Current Conversation.md",
+    "Diploma of IT/Business Statistics & Insights/Tests/z-test.md",
+    "Diploma of IT/Business Statistics & Insights/Tests/t-test.md",
+    "Diploma of IT/Business Statistics & Insights/Tests/Hypothesis Testing.md",
+    "Diploma of IT/Business Statistics & Insights/2.3 Comparing Means and Chi-Tests.md",
+    "Diploma of IT/Business Statistics & Insights/1.1 Introduction to Statistics.md",
+    "Diploma of IT/Business Statistics & Insights/1.2 Categorizing and Presenting Variables.md",
+    "Diploma of IT/Business Statistics & Insights/1.3 Further Presenting Variables.md",
+    "Diploma of IT/Business Statistics & Insights/1.4 Histograms.md",
+    "Diploma of IT/Business Statistics & Insights/2.1 Hypothesis Testing.md",
+    "Diploma of IT/Business Statistics & Insights/2.2 Further Hypothesis Testing.md",
+    "Diploma of IT/Business Statistics & Insights/Exercises/Business Analytics and Statistics Exercises.md",
+    "Diploma of IT/Business Statistics & Insights/Exercises/Manual Working.md",
+    "Diploma of IT/Business Statistics & Insights/Exercises/One-sample z-Test.md",
+    "Diploma of IT/Business Statistics & Insights/Media/histograms according to CLT.png",
+    "Diploma of IT/Business Statistics & Insights/Media/modes of histograms.png",
+    "Diploma of IT/Business Statistics & Insights/Tests",
+    "Sociology/Transgender",
+    "Sociology",
+    "Science/Pseudoscience/Flerfer Debate Tactics",
+    "Science/Abiogenesis/miller-urey-diagram.png",
+    "Science/Pseudoscience",
+    "Science/Methodology",
+    "Science/Evolution",
+    "Science/Abiogenesis",
+    "Science",
+    "Religion/Christianity/Arguments against Christianity/Contradictions in the Bible/Micah 5.2 Prophecy.png",
+    "Religion/Christianity/Arguments against Christianity/Contradictions in the Bible/judea_map_contradiction.png",
+    "Religion/Christianity/Arguments against Christianity/discord_contradiction.png",
+    "Religion/Christianity/Arguments against Christianity/Contradictions in the Bible",
+    "Philosophy/Logic/Antecedent et Consequent.png",
+    "Obsidian-Vault/Science/Abiogenesis/miller-urey-diagram.png",
+    "Obsidian-Vault/Religion/Christianity/Arguments against Christianity/Contradictions in the Bible/judea_map_contradiction.png",
+    "Obsidian-Vault/Religion/Christianity/Arguments against Christianity/Contradictions in the Bible/Micah 5.2 Prophecy.png",
+    "Diploma of IT/Business Statistics & Insights/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
