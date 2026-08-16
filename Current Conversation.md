@@ -54,16 +54,14 @@
 		1. You came into the conversation 
 	4. My conclusion is not that Christianity is false because i haven't had a religious experience.
 		1. I am not an agnostic because I haven't had a religious experience. 
-		2. I understand that people can be christian and not have religious experiences.
-7. Consciousness
-8. Nature of reality
-9. Morality
+		2. I understand that people can be Christian and not have religious experiences.
+7. Morality
 	1. non-cognitivist 
 	2. emotivism
 	3. moral judgments are highly context-dependant
 		1. Holding to a strict system may be un-intuitive?
 		2. Certain situations when doing the 'immoral thing' can lead to desirable results making it less immoral 
-10. Religion
+8. Religion
 	1. Can there be an argument or evidence for the existence of a God?
 	2. Substitute variables to test if they would hold the same beliefs if they were different.
 		1. Make a fake a story, and say a bible verse comes from the qu'ran etc. Then they'll rant about the qu'ran, etc.
@@ -72,13 +70,13 @@
 		4. "How do we change the minds of people that believe this, what is to be done? How do we change their minds"
 		5. "What are the implications of people that believe this?"
 		6. ==Write the content and time of their answers. Keep them accountable.==
-11. Truth value of propositions use standard inference methods
+9. Truth value of propositions use standard inference methods
 	1. Predict observations about the world
 	2. If synthetics truth exist then the proposition is true
 	3. because moral claims are prescriptive because the prescriptive claim is the hypothesis
-12. empiricist hold a distinction between synthetic and analytic
+10. empiricist hold a distinction between synthetic and analytic
 	1. this isn't justified; there isn't much difference
-13. Christian nationalist
+11. Christian nationalist
 	1. Do you believe that education should be regulated on a federal level?
 		1. "We need to exercise christian beliefs in every part of life, rejecting evolution"
 			1. If you presumably see evolution as an atheistic belief then, should you regulate the vast amount of Christians that believe evolution. 
@@ -88,14 +86,14 @@
 		1. essence: list of essential properties
 		2. truth is external to the self
 		3. "fiction does not exist"
-14. Trump debate
+12. Trump debate
 	1. How is it a reminder for the "seditious six" to say that it's not unlawful to follow illegal orders but it's not just a reminder when trump says what sedition is?
 	2. Why do we send billions of dollars to Israel.
 		1. Unconditional aid seems bad.
 			1. The president doesn't seem to have a comprehensive vision for the middle east right now.
 	3. Do you think that this is a uniquely diverse time in American politics?
 		1. "I have been pushed further left because of Jan 6th"
-15. KG Ontological Argument
+13. KG Ontological Argument
 	1. Definitions
 		1. Explanation: A counterfactual dependency relation
 	2. Argument
@@ -103,7 +101,7 @@
 		2. P2. A contingent thing is possible and that possible contingent thing could have some external explanation.
 		3. 
 		4. C. 
-16. `RaSol` vs Ian debate
+14. `RaSol` vs Ian debate
 	1. Argument:
 		1. P1. Real knowledge requires justification that connects beliefs to reality
 		2. P2. The knowledge claim fails with it
@@ -113,11 +111,12 @@
 		6. C. Non theistic worldviews cannot account for knowledge.
 	2. Knowledge: JTB that isn't defeated by Gettier cases.
 	3. Conceptual schemas
-17. Feminism cannot be achieved in society because it's never possible for men and women to be equal.
-18. Current conversation on LGBTQ
+15. Feminism cannot be achieved in society because it's never possible for men and women to be equal.
+	1. Why?
+16. Current conversation on LGBTQ
 	1. "Men can't become women - that shouldn't be taught in schools"
 		1. "the amount of people that experience gender dysphoria doesn't justify an entire-sex gender distinction"
-19. TERF discussion
+17. TERF discussion
 	1. Liberation from the oppressive male sex class.
 		1. This is incompatible with the view that trans women are women.
 		2. **Misogyny**: The hatred of any female-typical trait. 
@@ -125,14 +124,99 @@
 			1. Trans women are experiencing the hatred of homo-phobia and female-typical traits
 		4. Her main objection: Feminism is specifically the liberation of female-people from male-supremacist society.
 		5. **Her definition of Gender**: A social class applied to the sexes. 
-20. Signs and wonders point to this being true:
+18. Signs and wonders point to this being true:
 	1. John - We have more historical evidence about john the Baptist. 
 		1. He says that the spirit came on Jesus. 
 		2. he also says Jesus is the lamb of god.
-21. How do you know it's true:
+19. How do you know it's true:
 	1. The bible
 		1. How do you know that the bible is true.
 			1. The bible it has pragmatic value. 
-22. Orthodox has other ways of being saved:
+20. Orthodox has other ways of being saved:
 	1. Doesn't have to be in full communion with Christ.
-	2. 
+21. Christians vs Atheists conversation
+	1. The existence of suffering disproves a loving god
+		1. Free will
+			1. If god knows the outcome and could otherwise intervenex then he is responsible for the outcome
+		2. The argument that is made:
+			1. p1. if god didn't give us free will then he wouldn't love us
+			2. p2. god gives us free will
+			3. c1. god loves us
+			4. p1. free will exists because of sin
+			5. p2. in heaven you won't be able to sin
+			6. c2. in heaven you won't have free will.
+			7. (from p1) god doesn't love us. 
+22. Did Jesus Exist? (Richard Carrier, Ph.D. v Jack Bull)
+	1. Competing Hypotheses
+	$H_1:$  Jesus was a mundane man who inspired his followers to develop legends about him.
+	$H_2:$ Jesus was a being originally encountered in visions and dreams and placing him in Earth's history was a later legendary development.
+	Of note: The evidence is too poor and problematic to establish if either of these hypotheses is true, however, on balance $H_2$ is more likely.
+	**Key Points**
+	2. To understand how Christianity can begin and evolve we can look at related cases
+		1. Osiris. Was a historical pharaoh. Plutarch wrote a treatise that stated that Osiris was killed and had resurrected in outer space. 
+		2. Melanesian cults. Within 40 years teachings developed that there was an individual called John Frum.  And there were apostles were divine information of this came through revelation.
+	3. Paul experiences Jesus only as a revelatory being. (1 Peter, 1 Clement).
+	
+	
+	 4. holy spirit helps
+	5. jesus was th eonly person that spoke in parables
+		1. plato - allegory of the cave
+	6. jews had a culture of memorization
+	7. there is no other instance in antiquity where an event takes place and it's so heavily recorded.
+		1. No one denies the knowledge of aristotle.
+			1. 1,000 years removed
+23. Random philosophy bro:
+	1. p1. change exists
+	2. p2. change is the actualization of potential
+	3. c. the actualization of potential is a real feature of the world.
+	4. p4. no potential can be actualized without something actual actualizing it.
+	5. c. any change is caused by something already actual.
+	6. p6. 
+24. Another convo
+	1. Because he had the power to eliminate it in the first place it would not.
+	2. argument and evidence
+		1. wess likely 
+	3. prayer is not a science experiment so you have to consider their paradigm; the amount of times that you pray for someone and it doesn't work should not be considered in the effectiveness of prayer.
+		1. You could apply that standard every single paradigm so you need some alternate factor to differentiate the reliability of your paradigm specifically over someone else's paradigm
+	4. Purpose is personal.
+		1. purpose = intent
+		2. personal = an individual subject that has identity that makes choices with a rational nature.
+		3. intent comes from something personal
+		4. right and wrong doesn't always have to mean about morals
+	5. all things in time space and matter have a cause
+	6. because purpose exists it must come from something
+	7. the ought must have come from something
+	8. the ought is in time space and matter
+	9. so it must have come into existence.
+	10. therefore the universe had a cause
+25. islam and the west
+	1. Points:
+		1. Leaders are enforcing Muslim ideas
+		2. people are being more okay with accepting and promoting Muslim ideas
+		3. It's not just a cultural shift; it's assimilation. "native culture?"
+		4. corruption with international politics.
+		5. Disagreement with covid vaccine policy?
+			1. If you didn't get the treatment you were killed like African world leaders?
+	2. Summary:
+		1. Covid
+		2. Muslims
+		3. All wars post-2019 are staged.
+		4. Electronic vehicles.
+		5. Don't trust what you can see in the media. Allegory of the cave.
+	3.  You don't operate as though you don't require certainty
+	4. You can't justify knowledge
+	5. If knowledge requires absolute certainty then you don't know anything. 
+		1. Then you don't know anything
+26. Transgender debate
+	1. "These people just need to be told the truth and not live a lie"
+		1. "Just don't be depressed"
+27. How we know the universe began to exist
+	1. The expansion of the universe. 
+		1. It gives us the task of coming up with an infinite-model of the universe
+		2. Why did it expand if the universe is expanding?
+	2. The big bang model
+		1. The freed model and Lemaitre model.
+		2. CMB causes an issue with an eternal universe
+		3. Hydrogen and helium suggests it hasn't been around forever
+		4. BGV Theorem kind of doesn't work because inflationary cosmology doesn't make sense and we need to appeal to more condensed models that indicate that whatever happened at beginning gets reduced to a singularity, the laws of physics break down prior to which we cant have space, time, or matter.
+		5. 

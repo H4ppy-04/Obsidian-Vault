@@ -1,6 +1,7 @@
 ---
 tags:
   - wsta1250
+relevant links: "[[3.3 Class Test Practice]]"
 ---
 >[!abstract]
 >This is the information that I need to know for the class test that is happening at the end of week 3. It should encompass things like:
@@ -15,6 +16,10 @@ tags:
 ### Details
 
 The class test is weighted at 30%. It is happening in week three, in lesson four. It is happening online in the computer lab. The test is also open book. This means that students will have access to study resources and any `iLearn` notes. The duration of the test is 75 minutes or 1 hour and 15 minutes. There is a practice class test that will be happening in earlier week 3.
+
+A calculator is permitted.
+Blank paper will be provided.
+
 
 ### Key Terms
 

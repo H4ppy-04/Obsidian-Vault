@@ -1,3 +1,3 @@
 - Transgender people aged 16+ are **over four times more likely** than cisgender people to experience violent victimization (rape, assault, etc.) [source](williamsinstitute.law.ucla.edu/press/ncvs-trans-press-release/)
-- Transgender people - especially transgender POC are disproportionately victims of **fatal violence** in many countries. [source](https://reports.hrc.org/an-epidemic-of-violence-2024)
+- Transgender people - especially transgender POC are disproportionately victims of **fatal violence** in many countries. [source](https://reports.hrc.org/an-epidemic-of-violence-2024) ^249009
 - Studies in student populations show transgender students face much higher rates of violence victimization (e.g. bullying, harassment, assault) than cis students. [source](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm)
