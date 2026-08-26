@@ -189,7 +189,7 @@
 	8. the ought is in time space and matter
 	9. so it must have come into existence.
 	10. therefore the universe had a cause
-25. islam and the west
+25. Islam and the west
 	1. Points:
 		1. Leaders are enforcing Muslim ideas
 		2. people are being more okay with accepting and promoting Muslim ideas
@@ -219,4 +219,29 @@
 		2. CMB causes an issue with an eternal universe
 		3. Hydrogen and helium suggests it hasn't been around forever
 		4. BGV Theorem kind of doesn't work because inflationary cosmology doesn't make sense and we need to appeal to more condensed models that indicate that whatever happened at beginning gets reduced to a singularity, the laws of physics break down prior to which we cant have space, time, or matter.
-		5. 
+28. Magic is supernatural forces affecting the natural world 
+29. If god was real, then there would be entailments to real life
+30. Are you saying that there exists this category evil such that there can arise a greater good as a result of it
+31. God debate
+	1. Thomist argument
+		1. All contingent things require an efficient cause (contingent meaning it requires something for it to exist; they can't exist of themselves)
+		2. Nothing can be its own efficient cause
+		3. Causes exist in series/chains
+		4. A causal sequence cannot regress to infinity
+			1. They can't regress forever because then the sequence wouldn't begin in the first place.
+		5. C1: There must exist a necessary efficient first cause.
+		6. C2: Since the uncaused cause is necessary it also has 100% act and 0% potency. 
+		7. C3: The first cause is God
+32. god debate 2
+	1. Do you think belief is a choice
+	2. There is too much evidence
+		1. If you are epistemically convinced why does that mean that I am epistemically convinced.
+33. God debate 3
+	1. You don't take the bible as literal so we can't talk about it
+	2. Prior scriptures talk about the resurrection. 
+34.  Being is good
+	1. 
+	2. Being is goodness
+		1. 
+	3. Evil is the opposing relation to goodness 
+		1. 
