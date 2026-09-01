@@ -2,7 +2,6 @@
 tags:
   - plato
 ---
-
 On justice (Socrates talks with Cephalus, Polemarchus, and Thrasymachus):
  - Is justice telling the truth and paying your debts? (Cephalus)
 	 - Probably not, because if you borrow a weapon from a friend who then becomes insane, should you return it? Probably not. So justice is not just this.

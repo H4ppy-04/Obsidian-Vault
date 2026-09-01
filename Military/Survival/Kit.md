@@ -13,7 +13,7 @@
 
 - 550 Parachute cord
 - Large knife for chopping wood and scrub
-- Poncho \
+- Poncho
 - space blanket 
 - hammock
 - mosquito net

@@ -30,7 +30,6 @@ The only references to religion are explicitly secular:
     > → No ambiguity. This was a formal treaty, not private correspondence, making it one of the clearest official statements on the matter.  
     > The U.S. Senate ratified it unanimously. There was no controversy, showing that this view was unproblematic to the Founders.  
     > If the U.S. were truly a Christian Nation, such a statement would have been impossible to pass without public outrage.
-    
 
 ---
 

@@ -50,31 +50,21 @@
 ### **5. Core & Full-Body Strength**
 
 - Planks: start 20–30 sec, work up to 1–2 min.
-    
 - Squats & lunges: 3–4 sets of 10–20 reps.
-    
 - Dips or bench exercises if available.
-    
 
 ---
 
 ## **MENTAL & EMOTIONAL PREPARATION**
 
 1. **Early Wake-Up Practice**
-    
     - Wake at 5–6 a.m., even on weekends, to get used to BT schedule.
-        
 2. **Simulate Stress**
-    
     - Try push-ups or running after a long day or when slightly sleep-deprived.
-        
 3. **Focus & Discipline**
-    
     - Practice following written instructions exactly.
     - Set small daily goals and stick to them.
-        
 4. **Stress Coping Techniques**
-    
     - Deep breathing, mindfulness, or short meditation sessions.
     - Helps during sleep deprivation and high-pressure BT drills.
 
@@ -86,10 +76,8 @@
 - Familiarize yourself with **basic first aid and navigation**.
 - Research BT routines, uniform care, and military expectations.
 - Maintain **nutrition and hydration**, aim for lean protein, complex carbs, and regular water intake.
-    
 
 ---
-
 ### **Consistency Tips**
 
 - Track reps, runs, and marches in a notebook or app.

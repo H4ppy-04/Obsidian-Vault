@@ -7,11 +7,10 @@
 | Delilah       | Lady on the walkie talkie. Instructs Henry on how to do his job.                                                                                                   |
 | Dave Gaskill  | An ex-firewatcher. Apparently quite cookoo.                                                                                                                        |
 | Brian Goodwin | Lookout. Stationed in two forks with his dad 3 summers ago. Took off halfway through the summer.                                                                   |
+| Julia         | Henry's wife.                                                                                                                                                      |
 
 ### Landmarks
  - Caves (are apparently dangerous)
 	 - Certain parts are closed. They need a key. ??? Says it's to stop spelunkers from dying. 
- 
 
-### Backstory
- - 
+

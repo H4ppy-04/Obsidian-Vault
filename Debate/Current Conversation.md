@@ -244,4 +244,50 @@
 	2. Being is goodness
 		1. 
 	3. Evil is the opposing relation to goodness 
-		1. 
+35. How do we know certain things like we arent believing false things about reality
+	1. Because there are various methods of reasoning that can be used 
+		1. principle of parsimony 
+	2. Parsimony has nothing to do with truth or the likelihood of truth
+		1. Assuming induction
+	3. The Christian worldview
+		1. our brains are not autonomous
+		2. we know things in relation to other things
+		3. we can distinguish between thinking agents
+		4. information is relational
+		5. god is the ultimate environment
+		6. the brain is not autonomous
+		7. when we think we are being revealed god, that is just gods revelation
+		8. knowledge of god 
+	4. We all presuppose things
+		1. if you grant god then is it possible that we can know things for certain
+			1. therefore we can know things for certain
+	5. What must be true of a in order for b
+		1. Human nature etc.
+		2. God doesn't create the evil
+		3. non man-made evil
+			1. using this to say that man creates natural disasters
+		4. God also is just and has wrath and it is justice that natural evil exists
+			1. How do you know that it is just?
+			2. How are you defining all loving?
+			3. Isn't then anything that god does just? Doesn't this make justice arbitrary?
+				1. If you are deriving what is good based on the state of affairs that exist, then doesn't that make something immoral moral?
+36. Fallacies
+	1. Proof by assertion - Repeats "I'm right. Over and over again"
+	2. Ad hominem - "You guys are too slow"
+	3. Dodging?
+	4. Could god create a world where:
+		1. there exists 
+	5. In order to justify why the state of affairs exist:
+		1. You need Adam and Eve
+		2. What justification do I have to believe that this garden existed?
+		3. Why are we considering tsunamis are evil.
+			1. how does it follow that if i make an argument for
+37. Circumcision results in sexual frustration
+	1. Sexual frustration leads to rape
+		1. Therefore we ought not circumcise children
+38. God debate num. idek
+	1. A lot of the critiques that Christians apply to Atheists can equally be applied to Christians. For instance, Christians will often suggest that Atheists have a "heart problem and not a head problem", however, an Atheist could make the same claim. Equally so, you have said in this very live, "You can lead a horse to water / you can show someone X, but you can't force someone to Christ", which is something that can equally be applied as a critique to Christians.
+	2. It seems to be the case that you frequently create use biblical definitions for words, and will categorize any other definition as false. For instance, the definition of faith. Many people around the world source definitions from the dictionary. ==In the same way that if a Muslim tried to say your definition was wrong because the Qur'an defines it a different way, it is erroneous to say that biblical definitions are authoritative on the basis that you have a personal faith.== Furthermore, you treat as though your faith is something that is objective in definitions which is fundamentally incompatible when trying to use words because it means that **it becomes impossible to agree on what words mean unless both participants using those words have the same worldview or are at least willing to agree on a common unbiased definition.** A useful heuristic is to ask yourself, would I accept this line of reasoning or argumentation from a Muslim and if not, then you shouldn't expect someone who doesn't ascribe to your view to accept your reasoning or argumentation as well.
+	3. You very respectfully were refusing to engage in hypotheticals that disagree with your beliefs. So then also on that basis, why ought I consider a world in which god does exist?
+	4. "We cannot develop objective morals". Why? What stops atheists from having objective morals that are not stance dependent? There are plenty of arguments that are secular that are accepted to be rational. 
+	5. You seem to believe that the bible should have the same authoritative weight to an atheist as it would to a Christian. Which is confusing.
