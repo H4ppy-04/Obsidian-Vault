@@ -4,7 +4,7 @@ tags:
 ---
 Plan D (also known as Plan Dalet) was a Zionist military plan (commanded by the primary national founder and the first Prime Minister of Israel) that to place during the 1948 Palestine war for the conquest of territory in Mandatory Palestine (Khalidi, 1988). The plan itself described the beginning of a "new phase" in the 1948 Israel-Palestine war in which Zionist forces shifted to the offensive.
 
-Crucially, Plan Dalet was drafter **after** the [[1947 Partition Plan]] and during the [[1948 Palestine War]]. It was a plan to gain control of and defend the territory allotted to the Jewish state as per the [[1947 Partition Plan]]. 
+Crucially, Plan Dalet was drafter **after** the [[1947 Partition Plan]] and during the [[1948 Arab-Israeli War]]. It was a plan to gain control of and defend the territory allotted to the Jewish state as per the [[1947 Partition Plan]]. 
 
 The *first conception* or hinting of this idea to conquest Palestine was in 1937 when the commander of the forces in the Tel-Aviv area (named Avnir) received an order from Ben-Gurion according to the official history of the Haganah. Anticipating an eventual British withdrawal after the Peel Report (Palestinian Royal Commission by the British to investigate the causes of conflict in Mandatory Palestine)
 

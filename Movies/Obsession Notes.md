@@ -2,16 +2,15 @@ Bear seemingly is attracted to Nikki, and doesn't know how to communicate it to 
 
 Bear is at a shop to buy Nikki a replacement necklace when he sees a "One Wish Willow" on the shelf. He buys it, sort of as a joke / gag gift.
 
-Nikki also doesn't seemingly like bear:
+Nikki also doesn't seemingly like bear (as shown)
 
 >[!quote]
->Direct quote from the film:
->> "Get your girlfriend home safe".
-> Nikki: "Ew, don't say it like that".
+>"Get your girlfriend home safe".
+> **Nikki**: "Ew, don't say it like that".
 
 However, we learn in Chapter 3 that Nikki seems to commend bear as someone who she can confide in and talk to. We also learn that Nikki probably wants to set Bear up with Sarah.
 
-Never-mind. I think that Nikki actually liked bear. 
+Countering dialogue that would suggest that Nikki actually liked bear. 
 
 >[!quote]
 > **Nikki:** Do you like me? Because if you do, now's the time to tell me.

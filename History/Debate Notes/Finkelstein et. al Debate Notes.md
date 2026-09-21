@@ -32,6 +32,6 @@ tags:
 	1. Selective starting of history is interesting:
 		1. Allows blaming emerging Israeli state
 	2. Moralize everything first and then pick and choose facts that support if after it.
-	3. Whenever people are talking about the [[1948 Palestine War]] or the establishment of the Arab state, the never mention the fact that a civil war started in 1947. (needs further research)
+	3. Whenever people are talking about the [[1948 Arab-Israeli War]] or the establishment of the Arab state, the never mention the fact that a civil war started in 1947. (needs further research)
 	4. The Arabs had an inability to engage in diplomacy and exclusively use of military and force to negotiate, gave the Jewish people the mechanism to then use that to acquire land. (**definitely needs source and explanation; this is a massive claim**)
 		1. Israel offered to Annex Gaza (rejected)

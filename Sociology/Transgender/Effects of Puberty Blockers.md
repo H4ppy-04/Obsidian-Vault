@@ -38,3 +38,4 @@ A recent study (part of the _TransYouth Project_) surveyed ~220 youths who recei
 #### Reason for regret
 - It should be noted that the reason for regret isn't because they changed their mind because they're not trans anymore, or even the medication itself, rather because of the timing, the social consequences, the side effects, and so on). Also of note is that *stopping of treatment does not equal regret*.
 - Regret due purely to identity misdiagnosis is exceptionally rare.
+

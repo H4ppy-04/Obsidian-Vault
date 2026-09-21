@@ -291,3 +291,143 @@
 	3. You very respectfully were refusing to engage in hypotheticals that disagree with your beliefs. So then also on that basis, why ought I consider a world in which god does exist?
 	4. "We cannot develop objective morals". Why? What stops atheists from having objective morals that are not stance dependent? There are plenty of arguments that are secular that are accepted to be rational. 
 	5. You seem to believe that the bible should have the same authoritative weight to an atheist as it would to a Christian. Which is confusing.
+39. Reasonable moral faith - David Baggot, William Lane Craig
+	1. Case for theistic moral realism.
+40. stuff
+	1. Plotinus
+	2. p1. if its logically possible an omniscient being exists then we should align our beliefs with it.
+	3. p2. its logically possible 
+	4. We should align our beliefs with it.
+	5. p3. an omniscient being would believe an omniscient being exists
+	6. c2. therefore we should believe an omniscient being  exist.
+41. TikTok live notes - prompt "Why should I believe in a God"
+	1. p1.nomologially  possible that the constnats were different
+	2. rationally aligned?
+42. Current *new* TikTok conversation.
+	1. Arguments to beware of (need further consideration):
+		1. Argument from psychophysical harmony
+		2. Argument from motion (first mover)
+		3. Certain renditions of TAG.
+	2. pick between science and faith
+43. Everything that has parts has potency
+44. Anything with potency needs an outside explanation to say the way it is
+45. Anything that has an outside cause is contingent
+46. the universe is contingent
+47. the universe is contingent because of an unknown being
+48. the being must fully maximal in all things, must be purely actual, must be all good, and all loving, and all powerful.
+49. Look into the literary translation for the qu'ran
+50. Igtheist = linguistic philosophy
+	1. How we engage with our semantics and epistomology
+	2. example:
+		1. agree on utterances based on observational experience
+51. 1) God is the first cause
+52) No one can escape and cause effect, 3) Free Will Impossible
+53) New live
+	1) God is the sole cause for knowledge
+		1) Knowledge must come from a mind 
+		2) Therefore a mind must exist.
+54) god = energy itself
+55) the universe had a cause
+56) the cause of the universe was god
+	1) energy is the fundamental source for all things in existence
+	2) What does it mean for something to be perfect?
+	3) Perfection only exists in the imagination
+57) all movement must be caused by a living being.
+58) the cosmos has the same geometry as man
+59) the argument:
+	1) nothing can exist without a cause
+	2) ==applying laws within the universe to something that was outside the universe==
+60) Aesthetic deist
+	1) Disposed towards aesthetic value
+		1) Beauty
+		2) elegance
+		3) Love
+	2) Aesthetic deism - paul draper (atheist) defining atheism differently.
+61) sexual ethics
+	1) liberal ethics views
+		1) consent is necessary and sufficient for sexual unions
+			1) critiques:
+				1) adultery is wrong even if its consensual.
+			2) adultery is wrong.
+		2) 
+	2) moral theories
+		1) consequentilist
+			1) if no one is caught then its not morally wrong
+				1) however, they have to be experientally aware that they're being wronged.
+		2) deontologist
+		3) virtue ethics
+		4) there are two purposes to marital action
+			1) procreative
+			2) expression of union (mutual love)
+		5) Assumes that 'giving oneself' is the intention which is why it would be wrong.
+	3) if someone constructed an argument to be in accordance with ones 'intuitions' with a valid inference rule then that would be 
+62) p1. they dont have anything true of their past self
+	
+	if they had the capacity to consent in the future would this be permissible?
+	
+	1. without certainty we cannot know anything
+	2. knowledge: certainty about a specific thing
+	
+	voices in head = something that's not there
+	
+	its impossible to live in a world where you cant trust your reasoning
+	we live like there is certainty
+	
+	necklace found in coffin:
+	- piece of paper that writes "Jesus"
+	
+	1. Another live 2026-09-08
+		1. there are lots of possible ways in which these constants could have been
+	2. Debates
+		1. Contest the claim: You can't know (JTB) anything because you can't know for certain that your sense data is true.
+		2. Contest the claim: Atheism entails evolution.
+	
+	
+	the father explains himself with his son, the son is explained by the holy spirit which is explained by 
+	
+	
+	- when asking what explains god you're asking why is god this way
+	- the son is truly distinct from the father
+	
+	
+	One of the main reasons why I find Christianity so unconvincing is because it relies on claims which themselves need verification. 
+	
+	- What makes a historian credible? (No true scottsman)
+		- is there a difference
+	
+	social constructs cant work in society
+	
+	ruining society
+	- what they believe
+	
+	
+	Metaphysics and logic and others are grounded and justified in god.
+	impossibility of the contrary
+	
+	
+	there is no account
+	- moral reletavism
+	- scientific 
+	
+	p1. x needed for y
+	p2. y 
+	c. x
+	
+	
+	Synchronic vs diachronic properties (Platonist idea)
+	- radius of a circle
+	literature for this:
+	 - metaphysical naturalism
+	
+	
+	maha / autism
+	zionism
+	
+	define race: a group of people that are from the same place
+	p1. whoever is born in America has the additional country name added onto America
+	p2. 
+	
+	capitalism: the ownership of capital and free markets
+	communism: democratization of the workforce.
+
+1) 

@@ -3,7 +3,7 @@ tags:
   - israel-palestine
 ---
 >[!abstract]
->The White Paper of 1939 was a policy paper by the British in response to the [[1936 Arab Revolt|1936-1939 Arab Revolt]] in Palestine. It was approved in the house of common on 23 May 1939 and was governing policy for Mandatory Palestine from 1939 to when the British departed from Mandatory Palestine in 1948. After the [[1948 Palestine War]] the mandate was referred to the UN.
+>The White Paper of 1939 was a policy paper by the British in response to the [[1936 Arab Revolt|1936-1939 Arab Revolt]] in Palestine. It was approved in the house of common on 23 May 1939 and was governing policy for Mandatory Palestine from 1939 to when the British departed from Mandatory Palestine in 1948. After the [[1948 Arab-Israeli War]] the mandate was referred to the UN.
 
 **Content**
 1. The constitution

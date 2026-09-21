@@ -13,11 +13,11 @@ tags:
 
 **Terms
 
-| Term                  | Description                                                                                               |
-| --------------------- | --------------------------------------------------------------------------------------------------------- |
-| Settler Colonialism   | A population which breaks away from the metropol and settles a new territory and replace the population.  |
-| Classical Colonialism | There is a metropol that exerts its influence over another region to exploit its resources                |
-| Imperialism           | The expansion of borders. e.g. the Roman state.                                                           |
+| Term                  | Description                                                                                              |
+| --------------------- | -------------------------------------------------------------------------------------------------------- |
+| Settler Colonialism   | A population which breaks away from the metropol and settles a new territory and replace the population. |
+| Classical Colonialism | There is a metropol that exerts its influence over another region to exploit its resources               |
+| Imperialism           | The expansion of borders. e.g. the Roman state.                                                          |
 
 1. Javad argues that settler colonialism is inherently ethnic cleansing.
 	1. Conceded by Destiny.

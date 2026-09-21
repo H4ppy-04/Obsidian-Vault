@@ -1,0 +1,4 @@
+- Evolutionary biology is crucial to understanding biology
+- Understanding how biologists advanced Darwin's theory of evolution
+- Applications of Evolutionary Biology
+- Based on the introductory biology course at Rice University

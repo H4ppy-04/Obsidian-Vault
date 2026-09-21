@@ -14,3 +14,6 @@
 	 - Certain parts are closed. They need a key. ??? Says it's to stop spelunkers from dying. 
 
 
+>[!note]
+>I got bored of annotating the game.
+

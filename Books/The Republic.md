@@ -10,5 +10,5 @@ On justice (Socrates talks with Cephalus, Polemarchus, and Thrasymachus):
 	 - If justice makes people worse, then justice can't inherently involve harming people
 	 - So then a just person shouldn't harm anyone, even an enemy. Which seems odd.
  - Justice is what benefits the stronger (Thrasymachus)
-	 - This needs more expanding.
-	 - 
+	 - ==This needs more expanding.==
+
